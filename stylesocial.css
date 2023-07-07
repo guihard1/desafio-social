@@ -17,13 +17,16 @@ img {
 
 a {
     display: block;
-    padding: 10px;
+    padding: 3px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
     text-align: center;
     font-weight: bold;
     text-decoration: none;
     color: rgb(255, 255, 255);
-    background-color: rgba(238, 231, 231, 0.356);
+    background-color: rgba(60, 104, 250, 0.486);
     text-shadow: 1px 1px 10px rgba(255, 255, 255, 0.336);
+    letter-spacing: 1px;
 }
 
 a:hover {
